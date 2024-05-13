@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**alikwelyn/alikwelyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Hi there 👋</h1>
+<h1>About Me 🔎</h1>
+<p>I'm a Full Stack developer from Brazil with 6+ years of experience in developing applications.</p>
+<ul>
+  <li>🔭 I’m currently working on something cool.</li>
+  <li>🌱 I’m currently learning <b>Clean Architecture</b> and <b>Golang</b></li>
+  <li>💬 Ask me about anything related to <b>Javascript</b> or <b>PHP</b></li>
+  <li>⚡ Fun fact: I ❤️ UI/UX</li>
+</ul>
+<h1>Skills</h1>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,vue,nuxt,react,next,nodejs,php,jquery,wordpress,mysql,mongo,postgres,firebase,supabase,docker,sequelize,prisma,pinia,tailwind,bootstrap,git,github,bitbucket,figma,xd,photoshop,illustrator,aftereffects,premiere," />
+</p>
