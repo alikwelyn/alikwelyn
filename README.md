@@ -3,7 +3,7 @@
 <p>I'm a Full Stack Developer from Brazil with 6+ years of experience in developing applications.</p>
 <ul>
   <li>🔭 I’m currently working on something cool.</li>
-  <li>🌱 I’m currently learning <b>Clean Architecture</b> and <b>Golang</b></li>
+  <li>🌱 I’m currently learning <b>Golang</b></li>
   <li>💬 Ask me about anything related to <b>Javascript</b> or <b>PHP</b></li>
   <li>⚡ Fun fact: I ❤️ UI/UX</li>
 </ul>
