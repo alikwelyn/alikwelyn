@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
 <h1>About Me 🔎</h1>
-<p>I'm a Full Stack Developer from Brazil with 8+ years of experience in developing applications.</p>
+<p>I'm a Full Stack Developer from Brazil with 10+ years of experience in developing applications.</p>
 <ul>
   <li>🔭 I’m currently working on something cool.</li>
   <li>🌱 I’m currently learning <b>Golang</b></li>
